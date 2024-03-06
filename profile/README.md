@@ -1,4 +1,4 @@
-## Hello word, somos o projeto imunoapi! 👋
+## Hello word, somos o projeto Lab-API-Br! 👋
 
 ## Overview:
 ----
