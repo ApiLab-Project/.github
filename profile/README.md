@@ -1,4 +1,4 @@
-## Hello word, somos o projeto Lab-API-Br! 👋
+## Hello word, somos o projeto ApiLab-Project! 👋
 
 ## Overview:
 ----
